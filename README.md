@@ -2,11 +2,11 @@
 <h1 align="center">
   <br>
   <br>
- Titulo
+ Modelo de README
   <br>
 </h1>
 
-<h4 align="center">pequena descrição do projeto <a href="https://github.com/whosbea" target="_blank">link qualquer</a>.</h4>
+<h4 align="center">Um modelo simples de README para iniciantes, feito por <a href="https://github.com/whosbea" target="_blank">Beatriz Barreto</a>.</h4>
 
 <div align= "center">
   <img src="https://camo.githubusercontent.com/f1c0fc76d120f760664938edd8e1818f9d407b03f8ce7d306e12094d8853b6a0/687474703a2f2f692e696d6775722e636f6d2f6337476d414a662e706e67" alt="imagem logo do seu projeto" width="600"></a>
